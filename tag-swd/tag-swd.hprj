@@ -1,0 +1,21 @@
+{
+    "blocks": [
+        {
+            "block_filename": "top_block.json",
+            "is_top": true,
+            "schematic_filename": "top_sch.json"
+        }
+    ],
+    "blocks_filename": "blocks.json",
+    "board_filename": "board.json",
+    "name": "hubble-swd",
+    "pictures_filename": "pictures",
+    "pool_cache_directory": "cache",
+    "pool_directory": "pool",
+    "pool_uuid": "6d752bc3-29b3-45df-8cf2-1e3aacefbcc6",
+    "title": "Hubble SWD adapter",
+    "type": "project",
+    "uuid": "aea80095-e6e3-47b2-8055-c663690a51e3",
+    "version": 2,
+    "vias_directory": "vias"
+}

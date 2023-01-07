@@ -1,0 +1,40 @@
+{
+    "block_instance_mappings": {},
+    "block_instances": {},
+    "bom_export_settings": {
+        "concrete_parts": {},
+        "csv_settings": {
+            "columns": [
+                "QTY",
+                "MPN",
+                "value",
+                "manufacturer",
+                "refdes"
+            ],
+            "order": "asc",
+            "sort_column": "refdes"
+        },
+        "orderable_MPNs": {},
+        "output_filename": ""
+    },
+    "buses": {},
+    "components": {},
+    "group_names": {},
+    "name": "",
+    "net_class_default": "a57c1eed-c6fc-48b3-b8ee-e69de3314171",
+    "net_classes": {
+        "a57c1eed-c6fc-48b3-b8ee-e69de3314171": {
+            "name": "default"
+        }
+    },
+    "nets": {},
+    "project_meta": {
+        "author": "lukas",
+        "date": "2020-03-09",
+        "project_name": "tag-panel",
+        "project_title": "Tag-connect SWD Panel",
+        "rev": "1"
+    },
+    "tag_names": {},
+    "uuid": "f3d90a32-e51d-46c9-8c1c-c3b15ea0ea28"
+}

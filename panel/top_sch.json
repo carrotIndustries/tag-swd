@@ -1,0 +1,51 @@
+{
+    "annotation": {
+        "fill_gaps": true,
+        "ignore_unknown": false,
+        "keep": true,
+        "mode": "sheet_100",
+        "order": "right_down"
+    },
+    "block": "f3d90a32-e51d-46c9-8c1c-c3b15ea0ea28",
+    "group_tag_visible": false,
+    "name": "",
+    "pdf_export_settings": {
+        "min_line_width": 0,
+        "output_filename": ""
+    },
+    "rules": {
+        "connectivity": {
+            "enabled": true,
+            "include_unnamed": true,
+            "order": -1
+        }
+    },
+    "sheets": {
+        "c6cca14c-e3b1-4547-9173-27ad0001498c": {
+            "arcs": {},
+            "block_symbols": {},
+            "bus_labels": {},
+            "bus_rippers": {},
+            "index": 1,
+            "junctions": {},
+            "lines": {},
+            "name": "First sheet",
+            "net_labels": {},
+            "net_lines": {},
+            "power_symbols": {},
+            "symbols": {},
+            "texts": {},
+            "title_block_values": {}
+        }
+    },
+    "title_block_values": {
+        "author": "lukas",
+        "date": "2020-03-09",
+        "project_name": "tag-panel",
+        "project_title": "Tag-connect SWD Panel",
+        "rev": "1"
+    },
+    "type": "schematic_block",
+    "uuid": "7add1093-c7f7-47f3-88fd-b3209f2e8f82",
+    "version": 8
+}
